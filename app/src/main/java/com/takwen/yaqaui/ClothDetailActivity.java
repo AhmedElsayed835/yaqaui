@@ -9,6 +9,6 @@ public class ClothDetailActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_cloth_detail);
+        setContentView(R.layout.details_screen_light);
     }
 }
